@@ -7,7 +7,7 @@
 4. Create a .env file in the root directory (you can follow the .env.example file) and change the DB_DATABASE field to the absolute path of the file database/database.sqlite 
 5. Open terminal and navigate to the projects root directory
 6. Run command 'composer install'
-7. Run command 'npm install'p
+7. Run command 'npm install'
 8. Run command 'npm run dev'
 9. Run command 'php artisan migrate'
 10. Run command 'php artisan serve'
